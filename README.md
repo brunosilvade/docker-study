@@ -23,3 +23,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+<<<<<<< HEAD
+=======
+outras alterações para testar.
+>>>>>>> fixMenu
